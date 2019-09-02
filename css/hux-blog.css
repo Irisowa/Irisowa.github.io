@@ -429,8 +429,8 @@ pre code {
   }
   .navbar-custom .navbar-brand {
     color: white;
-    padding: 20px;
-    line-height: 20px;
+    padding: 15px;
+    line-height: 15px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
@@ -683,7 +683,7 @@ pre code {
   border-bottom-left-radius: 5px;
 }
 footer {
-  font-size: 20px;
+  font-size: 15px;
   padding: 50px 0 65px;
 }
 footer .list-inline {
@@ -883,7 +883,7 @@ img::-moz-selection {
   }
 }
 #tag_cloud {
-  margin: 20px 0 15px 0;
+  margin: 15px 0 15px 0;
 }
 #tag_cloud a,
 #tag_cloud .tag {
